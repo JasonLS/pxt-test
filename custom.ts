@@ -5,16 +5,15 @@ namespace robot {
 
         constructor() {
             super()
+            
+            
         }
-        //% blockId="gigglebot_stop_motor" block="Stop %which motor |"
-        move() {
+        //% blockId="Test" block="Play Music"
+        move():void{
             music.baDing.play()
         }
-
     }
 
-
-
-    robot.currentRobot = new MyRobot(); // ß libraries can set this field when loading
+    robot.currentRobot = new MyRobot(); // libraries can set this field when loading
 
 }
