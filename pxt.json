@@ -4,7 +4,7 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "pxt-mastertest": "workspace:780a44bf-110e-47e8-7798-37194c7c5031"
+        "pxt-mastertest": "github:jasonls/pxt-mastertest#v0.0.5"
     },
     "files": [
         "README.md",
@@ -15,5 +15,6 @@
         "test.ts"
     ],
     "public": false,
-    "preferredEditor": "tsprj"
+    "preferredEditor": "tsprj",
+    "installedVersion": "workspace:a4ff9026-c80d-4c3a-4497-d5f2ae382db8"
 }
