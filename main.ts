@@ -1,7 +1,7 @@
 //% weight=10 color=#006400 icon="\uf1b9" block="Tinybit"
 namespace robot {
 
-    export class MyRobot extends Robot {
+    class MyRobot extends Robot {
         constructor() { super() }
 
         move() {
