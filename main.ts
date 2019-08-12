@@ -1,1 +1,1 @@
-robot.currentRobot.move()
+ 
