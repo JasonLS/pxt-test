@@ -4,7 +4,7 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "pxt-mastertest": "github:jasonls/pxt-mastertest#v0.0.5"
+        "pxt-mastertest": "github:jasonls/pxt-mastertest#v0.0.7"
     },
     "files": [
         "README.md",
